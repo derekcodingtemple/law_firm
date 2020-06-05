@@ -1,0 +1,39 @@
+#dkd    {
+    background-color: white;
+    text-align: center;
+    height: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+body {
+    background-size: cover;
+    background: url("./images/nza_background.jpg");
+}
+#index-image {
+    background-image:("./images/nza_slideshow.jpg");
+    background-size: cover;
+    text-align: left;
+    padding-bottom: 20px;
+    margin-right: 2;
+}
+#index-dropbox {
+    overflow-y: scroll;
+    height: 360px;
+    text-align: left;
+    background-image: url(./images/nav_side_sub.jpg);
+    background-repeat: no-repeat;
+    color:white;
+    background-size: cover;
+}
+#index-bottom {
+    height: auto;
+    width: 70px;
+    text-align: left;
+    display: inline-block;
+    padding: 10px;
+}
+#index-contact {
+    text-align: left;
+    width: 100px;    
+    padding: 20px;
+}
