@@ -1,0 +1,60 @@
+/* Include this somewhere in your main.css for the background iamge */
+body {
+    background-image: url(images/nza_background.jpg);
+}
+
+.pad-sidebar {
+    padding-left: 30px;
+    text-align: left;
+    background-color: rgb(122, 9, 9);
+    color: white;
+}
+
+
+.left {
+    margin-left: -35px;
+}
+
+#attorney {
+    text-align: center;
+    width: 230px;
+}
+
+#small{
+    font-size: small;
+    margin-top: -15px;
+    
+}
+
+#text {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#pics {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+#ps {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#pl {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#pb {
+    margin-right: 10px;
+    margin-top: 10px;
+}
+#pt {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#ph{
+    margin-right: 325px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
