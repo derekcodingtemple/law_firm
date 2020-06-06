@@ -1,0 +1,68 @@
+body {
+    background-image: url(images/nza_background.jpg);
+
+
+}
+.container {
+    padding: 50px;  
+
+
+
+
+}
+
+ul {
+list-style-type: none;
+text-justify: left;
+font-size: large;
+width:100%;
+font-family: Helvetica, sans-serif, Arial;
+
+
+}
+
+li {
+  width: 100%;   
+
+
+}
+
+.service-sidebar {
+     background-image: url(images/nav_side.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     color: white;
+     
+     
+     
+}
+
+.hr nice-line{
+ text-decoration-line: white;
+ border: 1px solid white;
+
+
+
+}
+
+
+     
+    
+.row extra-space {
+    margin: 0px;
+
+
+
+}
+
+#attorney-pic {
+    text-align:center;
+    width: 100%;
+
+}
+
+img {
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom:20px;
+}
