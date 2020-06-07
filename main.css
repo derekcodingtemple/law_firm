@@ -3,7 +3,7 @@ body {
     background-image: url(images/nza_background.jpg);
 }
 
-.pad-sidebar {
+.about-pad-sidebar {
     padding-left: 30px;
     text-align: left;
     background-color: rgb(122, 9, 9);
@@ -11,48 +11,48 @@ body {
 }
 
 
-.left {
+.about-left {
     margin-left: -35px;
 }
 
-#attorney {
+#about-attorney {
     text-align: center;
     width: 230px;
 }
 
-#small{
+#about-small{
     font-size: small;
     margin-top: -15px;
     
 }
 
-#text {
+#about-text {
     margin-left: 100px;
     margin-right: 100px;
 }
 
-#pics {
+#about-pics {
     text-align: center;
     padding: 20px;
     margin: 20px;
 }
-#ps {
+#about-ps {
     margin-right: 10px;
     margin-bottom: 10px;
 }
-#pl {
+#about-pl {
     margin-left: 10px;
     margin-bottom: 10px;
 }
-#pb {
+#about-pb {
     margin-right: 10px;
     margin-top: 10px;
 }
-#pt {
+#about-pt {
     margin-left: 10px;
     margin-top: 10px;
 }
-#ph{
+#about-ph{
     margin-right: 325px;
     margin-top: 20px;
     margin-bottom: 30px;
